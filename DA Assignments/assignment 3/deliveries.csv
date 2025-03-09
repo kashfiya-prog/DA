@@ -1,0 +1,301 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,dismissal_kind
+2,1,Mumbai Indians,Chennai Super Kings,15,1,Virat Kohli,David Warner,Deepak Chahar,0,1,0,1,0,1,LBW
+5,2,Chennai Super Kings,Kolkata Knight Riders,12,5,KL Rahul,Faf du Plessis,Pat Cummins,0,1,0,1,0,5,Bowled
+9,2,Kolkata Knight Riders,Kolkata Knight Riders,7,4,KL Rahul,Ruturaj Gaikwad,Deepak Chahar,0,1,1,1,0,0,LBW
+8,1,Chennai Super Kings,Kolkata Knight Riders,18,3,KL Rahul,David Warner,Jasprit Bumrah,0,0,1,0,0,3,LBW
+4,2,Chennai Super Kings,Mumbai Indians,17,2,KL Rahul,Ruturaj Gaikwad,Jasprit Bumrah,1,1,1,0,0,5,Run Out
+2,2,Chennai Super Kings,Royal Challengers Bangalore,18,6,MS Dhoni,David Warner,Deepak Chahar,1,1,1,1,0,1,Run Out
+2,1,Kolkata Knight Riders,Royal Challengers Bangalore,5,2,MS Dhoni,Ruturaj Gaikwad,Deepak Chahar,1,1,0,1,0,6,Run Out
+4,2,Mumbai Indians,Chennai Super Kings,2,3,Virat Kohli,David Warner,Rashid Khan,0,0,1,0,0,0,Caught
+1,2,Mumbai Indians,Chennai Super Kings,5,4,Virat Kohli,Faf du Plessis,Jasprit Bumrah,0,0,0,1,0,2,
+5,1,Mumbai Indians,Royal Challengers Bangalore,6,1,Rohit Sharma,Ruturaj Gaikwad,Deepak Chahar,0,1,1,0,0,0,Caught
+9,2,Royal Challengers Bangalore,Mumbai Indians,4,4,KL Rahul,Suryakumar Yadav,Jasprit Bumrah,1,0,1,0,0,0,
+5,2,Kolkata Knight Riders,Chennai Super Kings,15,6,KL Rahul,Suryakumar Yadav,Rashid Khan,0,0,1,0,0,6,
+9,1,Chennai Super Kings,Mumbai Indians,10,4,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,0,0,1,0,0,2,
+1,2,Mumbai Indians,Royal Challengers Bangalore,19,3,Rohit Sharma,Ruturaj Gaikwad,Rashid Khan,0,0,0,1,0,6,Bowled
+1,2,Royal Challengers Bangalore,Kolkata Knight Riders,11,3,Rohit Sharma,David Warner,Jasprit Bumrah,0,0,0,0,0,5,Run Out
+2,1,Mumbai Indians,Chennai Super Kings,14,5,AB de Villiers,Suryakumar Yadav,Rashid Khan,0,1,1,1,0,4,LBW
+2,1,Royal Challengers Bangalore,Mumbai Indians,15,6,Virat Kohli,Faf du Plessis,Deepak Chahar,0,0,0,1,0,0,LBW
+8,2,Mumbai Indians,Mumbai Indians,8,3,Rohit Sharma,Faf du Plessis,Rashid Khan,1,1,1,1,0,5,Caught
+7,1,Kolkata Knight Riders,Kolkata Knight Riders,19,3,AB de Villiers,Suryakumar Yadav,Pat Cummins,0,1,0,1,0,6,Bowled
+6,2,Kolkata Knight Riders,Mumbai Indians,11,1,AB de Villiers,Faf du Plessis,Jasprit Bumrah,0,1,0,1,0,0,
+5,1,Kolkata Knight Riders,Chennai Super Kings,10,3,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,0,1,1,0,0,6,Bowled
+10,2,Royal Challengers Bangalore,Mumbai Indians,6,3,MS Dhoni,David Warner,Deepak Chahar,1,0,1,1,0,3,
+9,2,Mumbai Indians,Royal Challengers Bangalore,3,1,Rohit Sharma,Ruturaj Gaikwad,Deepak Chahar,0,0,1,0,0,3,Caught
+2,1,Royal Challengers Bangalore,Royal Challengers Bangalore,7,3,Rohit Sharma,Suryakumar Yadav,Jasprit Bumrah,0,0,0,0,0,2,LBW
+5,2,Mumbai Indians,Kolkata Knight Riders,5,1,MS Dhoni,Faf du Plessis,Jasprit Bumrah,1,0,1,0,0,6,Bowled
+8,2,Royal Challengers Bangalore,Mumbai Indians,19,4,Virat Kohli,Suryakumar Yadav,Rashid Khan,1,0,0,0,0,0,
+7,2,Mumbai Indians,Mumbai Indians,13,4,MS Dhoni,Ruturaj Gaikwad,Rashid Khan,0,0,0,1,0,0,Caught
+1,2,Royal Challengers Bangalore,Royal Challengers Bangalore,4,4,Rohit Sharma,Faf du Plessis,Rashid Khan,1,1,0,0,0,3,
+7,1,Chennai Super Kings,Chennai Super Kings,16,4,Rohit Sharma,David Warner,Jasprit Bumrah,0,0,0,1,0,2,Run Out
+7,1,Mumbai Indians,Kolkata Knight Riders,8,3,Virat Kohli,Faf du Plessis,Jasprit Bumrah,0,1,0,0,0,4,LBW
+6,1,Kolkata Knight Riders,Kolkata Knight Riders,13,5,Virat Kohli,Ruturaj Gaikwad,Jasprit Bumrah,1,1,1,0,0,3,Bowled
+2,1,Mumbai Indians,Kolkata Knight Riders,10,4,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,0,0,0,1,0,2,LBW
+5,1,Chennai Super Kings,Royal Challengers Bangalore,6,3,MS Dhoni,Ruturaj Gaikwad,Pat Cummins,1,0,1,1,0,3,Caught
+10,1,Chennai Super Kings,Chennai Super Kings,2,6,KL Rahul,Faf du Plessis,Rashid Khan,1,1,1,1,0,0,LBW
+10,1,Mumbai Indians,Chennai Super Kings,10,5,MS Dhoni,Faf du Plessis,Rashid Khan,0,1,1,1,0,3,Run Out
+10,2,Royal Challengers Bangalore,Mumbai Indians,9,6,Virat Kohli,Ruturaj Gaikwad,Rashid Khan,0,0,0,0,0,1,LBW
+3,1,Mumbai Indians,Royal Challengers Bangalore,10,4,Rohit Sharma,Suryakumar Yadav,Pat Cummins,0,1,1,0,0,3,Run Out
+7,2,Chennai Super Kings,Kolkata Knight Riders,12,1,KL Rahul,Ruturaj Gaikwad,Rashid Khan,0,0,1,0,0,6,Run Out
+4,2,Kolkata Knight Riders,Kolkata Knight Riders,3,5,MS Dhoni,David Warner,Pat Cummins,1,0,0,0,0,3,Caught
+6,2,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,MS Dhoni,Suryakumar Yadav,Jasprit Bumrah,1,1,1,0,0,4,
+7,2,Mumbai Indians,Kolkata Knight Riders,18,6,AB de Villiers,Faf du Plessis,Jasprit Bumrah,0,0,0,1,0,0,
+7,2,Mumbai Indians,Kolkata Knight Riders,20,1,Rohit Sharma,David Warner,Jasprit Bumrah,0,1,0,1,0,0,Run Out
+5,2,Kolkata Knight Riders,Kolkata Knight Riders,5,3,Virat Kohli,David Warner,Deepak Chahar,0,1,0,0,0,0,Caught
+10,1,Mumbai Indians,Mumbai Indians,20,4,Virat Kohli,Ruturaj Gaikwad,Jasprit Bumrah,0,0,1,1,0,1,Caught
+7,1,Mumbai Indians,Royal Challengers Bangalore,10,3,MS Dhoni,Ruturaj Gaikwad,Pat Cummins,0,0,0,1,0,3,Bowled
+4,2,Mumbai Indians,Chennai Super Kings,12,2,Virat Kohli,Ruturaj Gaikwad,Jasprit Bumrah,1,0,0,0,0,6,LBW
+1,2,Mumbai Indians,Kolkata Knight Riders,10,2,Virat Kohli,David Warner,Rashid Khan,0,0,0,1,0,4,LBW
+1,2,Chennai Super Kings,Chennai Super Kings,15,1,MS Dhoni,Faf du Plessis,Deepak Chahar,1,1,1,0,0,2,LBW
+7,1,Royal Challengers Bangalore,Kolkata Knight Riders,11,5,Rohit Sharma,David Warner,Rashid Khan,1,1,0,1,0,1,Run Out
+3,1,Mumbai Indians,Kolkata Knight Riders,13,3,KL Rahul,David Warner,Jasprit Bumrah,1,0,1,1,0,4,Bowled
+10,2,Kolkata Knight Riders,Royal Challengers Bangalore,6,6,Virat Kohli,Suryakumar Yadav,Jasprit Bumrah,1,0,1,0,0,6,LBW
+9,1,Kolkata Knight Riders,Chennai Super Kings,16,5,Rohit Sharma,Faf du Plessis,Pat Cummins,0,1,1,1,0,3,Run Out
+7,1,Chennai Super Kings,Kolkata Knight Riders,5,5,Rohit Sharma,Ruturaj Gaikwad,Jasprit Bumrah,1,0,0,0,0,1,
+4,2,Royal Challengers Bangalore,Kolkata Knight Riders,16,5,Virat Kohli,Faf du Plessis,Rashid Khan,0,0,1,1,0,4,Run Out
+9,1,Chennai Super Kings,Kolkata Knight Riders,11,3,KL Rahul,Suryakumar Yadav,Pat Cummins,0,0,1,1,0,3,Caught
+1,2,Royal Challengers Bangalore,Chennai Super Kings,6,5,MS Dhoni,Ruturaj Gaikwad,Deepak Chahar,1,1,1,0,0,6,Caught
+7,1,Chennai Super Kings,Royal Challengers Bangalore,2,6,KL Rahul,Suryakumar Yadav,Rashid Khan,0,0,0,0,0,6,LBW
+5,2,Mumbai Indians,Kolkata Knight Riders,15,3,MS Dhoni,Ruturaj Gaikwad,Pat Cummins,0,0,0,0,0,1,Run Out
+5,2,Chennai Super Kings,Royal Challengers Bangalore,14,3,MS Dhoni,Suryakumar Yadav,Pat Cummins,1,1,0,1,0,3,Bowled
+9,1,Kolkata Knight Riders,Chennai Super Kings,11,4,Rohit Sharma,Faf du Plessis,Deepak Chahar,0,1,0,0,0,4,LBW
+9,1,Kolkata Knight Riders,Kolkata Knight Riders,2,2,Virat Kohli,David Warner,Jasprit Bumrah,0,0,0,1,0,6,Run Out
+1,1,Kolkata Knight Riders,Mumbai Indians,5,5,KL Rahul,David Warner,Deepak Chahar,0,0,1,0,0,2,Bowled
+3,1,Kolkata Knight Riders,Kolkata Knight Riders,13,3,MS Dhoni,David Warner,Pat Cummins,1,1,1,1,0,4,Run Out
+4,1,Royal Challengers Bangalore,Kolkata Knight Riders,8,3,MS Dhoni,David Warner,Rashid Khan,1,0,1,0,0,6,LBW
+3,1,Mumbai Indians,Mumbai Indians,15,3,KL Rahul,Suryakumar Yadav,Rashid Khan,1,0,1,1,0,0,LBW
+1,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,6,Rohit Sharma,Faf du Plessis,Deepak Chahar,1,0,0,0,0,1,Run Out
+3,1,Royal Challengers Bangalore,Mumbai Indians,2,5,KL Rahul,Suryakumar Yadav,Jasprit Bumrah,1,0,0,1,0,0,Run Out
+7,1,Mumbai Indians,Royal Challengers Bangalore,3,3,MS Dhoni,Ruturaj Gaikwad,Rashid Khan,1,0,1,0,0,5,Caught
+5,1,Royal Challengers Bangalore,Mumbai Indians,13,3,KL Rahul,Ruturaj Gaikwad,Pat Cummins,0,0,0,0,0,3,Bowled
+8,1,Kolkata Knight Riders,Mumbai Indians,5,6,KL Rahul,David Warner,Pat Cummins,0,1,1,1,0,2,Caught
+3,2,Royal Challengers Bangalore,Mumbai Indians,12,4,Rohit Sharma,Ruturaj Gaikwad,Pat Cummins,0,0,1,0,0,0,Bowled
+3,2,Royal Challengers Bangalore,Royal Challengers Bangalore,7,1,MS Dhoni,Suryakumar Yadav,Pat Cummins,0,0,1,0,0,2,
+3,2,Mumbai Indians,Chennai Super Kings,19,1,MS Dhoni,David Warner,Jasprit Bumrah,1,1,1,0,0,1,Run Out
+8,2,Mumbai Indians,Mumbai Indians,15,4,KL Rahul,Faf du Plessis,Jasprit Bumrah,1,1,1,1,0,2,Caught
+8,1,Royal Challengers Bangalore,Chennai Super Kings,20,4,Rohit Sharma,Faf du Plessis,Deepak Chahar,0,1,1,0,0,3,LBW
+6,2,Mumbai Indians,Mumbai Indians,15,3,KL Rahul,Faf du Plessis,Deepak Chahar,1,0,1,0,0,0,
+8,1,Chennai Super Kings,Chennai Super Kings,20,2,MS Dhoni,Faf du Plessis,Pat Cummins,0,0,1,1,0,0,Run Out
+7,2,Chennai Super Kings,Chennai Super Kings,10,6,KL Rahul,Ruturaj Gaikwad,Jasprit Bumrah,0,1,0,1,0,6,
+4,1,Mumbai Indians,Kolkata Knight Riders,7,2,AB de Villiers,Ruturaj Gaikwad,Jasprit Bumrah,1,0,1,1,0,5,
+2,1,Mumbai Indians,Royal Challengers Bangalore,12,5,AB de Villiers,Suryakumar Yadav,Jasprit Bumrah,1,1,1,0,0,4,Caught
+1,1,Royal Challengers Bangalore,Mumbai Indians,17,1,AB de Villiers,David Warner,Jasprit Bumrah,0,1,0,1,0,0,Bowled
+6,2,Kolkata Knight Riders,Royal Challengers Bangalore,7,4,KL Rahul,Faf du Plessis,Jasprit Bumrah,1,1,0,1,0,2,Run Out
+6,1,Chennai Super Kings,Chennai Super Kings,17,3,Virat Kohli,Suryakumar Yadav,Rashid Khan,1,0,1,1,0,0,
+5,1,Kolkata Knight Riders,Kolkata Knight Riders,1,2,KL Rahul,Suryakumar Yadav,Pat Cummins,0,1,0,0,0,4,Bowled
+9,1,Royal Challengers Bangalore,Royal Challengers Bangalore,11,2,Virat Kohli,Faf du Plessis,Rashid Khan,0,1,1,0,0,0,
+4,1,Mumbai Indians,Kolkata Knight Riders,9,4,Rohit Sharma,Faf du Plessis,Deepak Chahar,0,0,0,0,0,0,Run Out
+8,2,Mumbai Indians,Mumbai Indians,9,5,Rohit Sharma,David Warner,Rashid Khan,1,0,0,1,0,2,Caught
+4,2,Royal Challengers Bangalore,Royal Challengers Bangalore,19,2,Rohit Sharma,David Warner,Pat Cummins,0,1,0,1,0,0,Caught
+3,2,Royal Challengers Bangalore,Mumbai Indians,16,4,Rohit Sharma,Suryakumar Yadav,Rashid Khan,1,0,1,1,0,3,Caught
+8,1,Mumbai Indians,Royal Challengers Bangalore,1,2,MS Dhoni,Ruturaj Gaikwad,Pat Cummins,0,0,0,0,0,5,
+1,2,Mumbai Indians,Chennai Super Kings,16,3,MS Dhoni,David Warner,Deepak Chahar,1,0,1,0,0,0,LBW
+8,1,Chennai Super Kings,Royal Challengers Bangalore,4,5,Virat Kohli,Suryakumar Yadav,Deepak Chahar,0,0,1,0,0,1,Bowled
+4,1,Chennai Super Kings,Chennai Super Kings,12,5,Rohit Sharma,Suryakumar Yadav,Pat Cummins,1,1,1,1,0,6,Run Out
+8,1,Kolkata Knight Riders,Mumbai Indians,8,6,Virat Kohli,Ruturaj Gaikwad,Rashid Khan,0,0,0,0,0,6,Run Out
+9,1,Royal Challengers Bangalore,Mumbai Indians,1,1,MS Dhoni,Faf du Plessis,Deepak Chahar,1,0,0,0,0,1,Bowled
+3,2,Chennai Super Kings,Royal Challengers Bangalore,16,3,KL Rahul,Faf du Plessis,Deepak Chahar,1,1,1,1,0,6,Bowled
+2,1,Mumbai Indians,Kolkata Knight Riders,15,2,AB de Villiers,Faf du Plessis,Pat Cummins,1,0,0,0,0,5,Bowled
+3,1,Royal Challengers Bangalore,Chennai Super Kings,12,1,Virat Kohli,David Warner,Jasprit Bumrah,1,0,1,0,0,4,LBW
+9,2,Kolkata Knight Riders,Kolkata Knight Riders,6,2,MS Dhoni,Suryakumar Yadav,Pat Cummins,0,1,1,1,0,0,Bowled
+5,1,Royal Challengers Bangalore,Mumbai Indians,16,4,Virat Kohli,David Warner,Deepak Chahar,1,0,0,1,0,2,LBW
+5,2,Mumbai Indians,Kolkata Knight Riders,9,2,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,1,1,1,1,0,2,Bowled
+3,1,Royal Challengers Bangalore,Kolkata Knight Riders,18,6,Rohit Sharma,Ruturaj Gaikwad,Pat Cummins,0,1,0,1,0,6,LBW
+7,1,Kolkata Knight Riders,Chennai Super Kings,9,5,Virat Kohli,Faf du Plessis,Rashid Khan,0,1,1,1,0,0,
+4,2,Royal Challengers Bangalore,Kolkata Knight Riders,2,3,AB de Villiers,Ruturaj Gaikwad,Rashid Khan,0,0,0,0,0,0,Bowled
+2,2,Mumbai Indians,Chennai Super Kings,1,2,KL Rahul,Suryakumar Yadav,Jasprit Bumrah,0,0,1,0,0,3,
+9,2,Royal Challengers Bangalore,Mumbai Indians,9,3,KL Rahul,Ruturaj Gaikwad,Deepak Chahar,1,1,1,0,0,2,Caught
+2,2,Royal Challengers Bangalore,Royal Challengers Bangalore,11,2,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,0,0,1,1,0,5,Run Out
+7,1,Kolkata Knight Riders,Kolkata Knight Riders,18,2,Virat Kohli,Suryakumar Yadav,Deepak Chahar,1,0,1,0,0,6,Run Out
+8,1,Kolkata Knight Riders,Mumbai Indians,2,2,AB de Villiers,Suryakumar Yadav,Deepak Chahar,1,1,0,0,0,5,
+5,2,Kolkata Knight Riders,Kolkata Knight Riders,2,1,AB de Villiers,Suryakumar Yadav,Deepak Chahar,1,1,1,1,0,2,
+3,1,Mumbai Indians,Kolkata Knight Riders,19,3,Virat Kohli,Ruturaj Gaikwad,Rashid Khan,1,0,1,1,0,1,
+8,1,Kolkata Knight Riders,Royal Challengers Bangalore,14,5,Rohit Sharma,Ruturaj Gaikwad,Jasprit Bumrah,1,1,1,0,0,2,LBW
+6,1,Royal Challengers Bangalore,Kolkata Knight Riders,13,6,AB de Villiers,Ruturaj Gaikwad,Rashid Khan,0,1,0,1,0,4,Run Out
+8,1,Chennai Super Kings,Royal Challengers Bangalore,6,3,Rohit Sharma,Ruturaj Gaikwad,Jasprit Bumrah,0,1,1,0,0,1,Run Out
+2,2,Kolkata Knight Riders,Mumbai Indians,12,5,KL Rahul,Faf du Plessis,Rashid Khan,1,0,0,0,0,0,Caught
+10,1,Chennai Super Kings,Chennai Super Kings,1,2,Virat Kohli,Ruturaj Gaikwad,Rashid Khan,0,0,0,1,0,5,LBW
+8,2,Chennai Super Kings,Kolkata Knight Riders,16,6,KL Rahul,Suryakumar Yadav,Rashid Khan,1,0,0,1,0,5,Run Out
+1,1,Chennai Super Kings,Royal Challengers Bangalore,17,5,Virat Kohli,Ruturaj Gaikwad,Pat Cummins,0,1,0,0,0,3,
+2,1,Chennai Super Kings,Mumbai Indians,14,2,KL Rahul,Suryakumar Yadav,Rashid Khan,0,0,0,0,0,6,Caught
+5,2,Chennai Super Kings,Chennai Super Kings,20,6,Rohit Sharma,David Warner,Pat Cummins,0,1,0,1,0,0,LBW
+7,2,Royal Challengers Bangalore,Royal Challengers Bangalore,7,5,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,1,1,0,1,0,6,Run Out
+9,2,Mumbai Indians,Chennai Super Kings,2,3,Virat Kohli,Suryakumar Yadav,Deepak Chahar,0,0,1,1,0,5,
+10,1,Chennai Super Kings,Chennai Super Kings,4,1,AB de Villiers,Suryakumar Yadav,Pat Cummins,0,1,1,0,0,1,Run Out
+7,1,Mumbai Indians,Chennai Super Kings,8,6,Rohit Sharma,Suryakumar Yadav,Rashid Khan,0,1,0,1,0,3,Bowled
+6,2,Royal Challengers Bangalore,Royal Challengers Bangalore,9,2,Virat Kohli,Suryakumar Yadav,Deepak Chahar,0,1,1,1,0,5,
+5,2,Kolkata Knight Riders,Kolkata Knight Riders,1,6,AB de Villiers,Suryakumar Yadav,Pat Cummins,1,1,1,1,0,2,Run Out
+8,2,Mumbai Indians,Royal Challengers Bangalore,4,6,Virat Kohli,Ruturaj Gaikwad,Pat Cummins,0,0,1,0,0,1,Bowled
+3,1,Royal Challengers Bangalore,Kolkata Knight Riders,19,3,AB de Villiers,Faf du Plessis,Rashid Khan,0,1,1,1,0,0,Bowled
+3,1,Royal Challengers Bangalore,Chennai Super Kings,16,2,KL Rahul,Suryakumar Yadav,Deepak Chahar,1,1,1,1,0,4,Bowled
+9,2,Mumbai Indians,Royal Challengers Bangalore,17,6,KL Rahul,Faf du Plessis,Rashid Khan,1,1,0,0,0,0,Caught
+10,1,Kolkata Knight Riders,Chennai Super Kings,3,1,Virat Kohli,Faf du Plessis,Pat Cummins,1,0,1,1,0,6,Bowled
+8,1,Royal Challengers Bangalore,Kolkata Knight Riders,4,1,Rohit Sharma,Ruturaj Gaikwad,Jasprit Bumrah,1,1,1,1,0,1,Caught
+5,1,Royal Challengers Bangalore,Kolkata Knight Riders,2,5,KL Rahul,Suryakumar Yadav,Pat Cummins,0,0,0,0,0,1,Bowled
+9,1,Mumbai Indians,Mumbai Indians,1,4,AB de Villiers,David Warner,Deepak Chahar,0,0,1,0,0,4,Caught
+10,1,Chennai Super Kings,Mumbai Indians,7,2,AB de Villiers,Faf du Plessis,Deepak Chahar,0,1,0,1,0,0,Bowled
+10,1,Mumbai Indians,Chennai Super Kings,19,1,Virat Kohli,Suryakumar Yadav,Rashid Khan,0,1,0,0,0,0,
+8,1,Kolkata Knight Riders,Chennai Super Kings,8,2,Rohit Sharma,Suryakumar Yadav,Jasprit Bumrah,0,0,0,1,0,0,LBW
+2,1,Royal Challengers Bangalore,Royal Challengers Bangalore,3,6,Rohit Sharma,David Warner,Deepak Chahar,0,0,1,1,0,0,LBW
+7,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,3,MS Dhoni,Suryakumar Yadav,Pat Cummins,0,1,0,0,0,5,LBW
+6,2,Chennai Super Kings,Royal Challengers Bangalore,16,5,AB de Villiers,Ruturaj Gaikwad,Deepak Chahar,0,1,0,1,0,5,Bowled
+2,1,Mumbai Indians,Chennai Super Kings,2,3,Virat Kohli,Suryakumar Yadav,Rashid Khan,1,0,0,1,0,0,Bowled
+3,2,Mumbai Indians,Chennai Super Kings,11,2,KL Rahul,Ruturaj Gaikwad,Rashid Khan,1,1,1,1,0,3,
+2,2,Mumbai Indians,Royal Challengers Bangalore,4,3,AB de Villiers,Suryakumar Yadav,Pat Cummins,0,1,1,1,0,1,
+7,2,Mumbai Indians,Kolkata Knight Riders,19,6,Rohit Sharma,Ruturaj Gaikwad,Rashid Khan,0,0,0,0,0,2,LBW
+10,2,Royal Challengers Bangalore,Mumbai Indians,19,3,KL Rahul,Ruturaj Gaikwad,Rashid Khan,0,0,1,1,0,5,LBW
+3,1,Royal Challengers Bangalore,Mumbai Indians,12,2,KL Rahul,David Warner,Jasprit Bumrah,0,0,1,1,0,5,LBW
+2,1,Royal Challengers Bangalore,Mumbai Indians,3,1,KL Rahul,Suryakumar Yadav,Deepak Chahar,1,1,0,0,0,6,
+4,1,Chennai Super Kings,Kolkata Knight Riders,9,1,MS Dhoni,David Warner,Deepak Chahar,0,1,1,1,0,5,Caught
+1,1,Kolkata Knight Riders,Mumbai Indians,3,6,Rohit Sharma,David Warner,Jasprit Bumrah,0,1,1,0,0,0,Caught
+8,2,Chennai Super Kings,Kolkata Knight Riders,14,2,MS Dhoni,Faf du Plessis,Pat Cummins,1,0,0,0,0,4,Caught
+2,2,Kolkata Knight Riders,Mumbai Indians,12,4,KL Rahul,Ruturaj Gaikwad,Jasprit Bumrah,0,0,1,0,0,0,Caught
+10,1,Kolkata Knight Riders,Royal Challengers Bangalore,12,3,KL Rahul,Suryakumar Yadav,Pat Cummins,0,0,1,1,0,4,LBW
+8,2,Mumbai Indians,Chennai Super Kings,17,6,MS Dhoni,David Warner,Rashid Khan,1,0,0,1,0,4,Run Out
+4,1,Chennai Super Kings,Chennai Super Kings,12,4,MS Dhoni,Suryakumar Yadav,Rashid Khan,0,1,0,0,0,3,Caught
+6,1,Kolkata Knight Riders,Royal Challengers Bangalore,12,1,MS Dhoni,Faf du Plessis,Pat Cummins,1,0,1,0,0,5,Caught
+5,2,Chennai Super Kings,Royal Challengers Bangalore,13,4,KL Rahul,David Warner,Rashid Khan,0,1,0,0,0,1,Run Out
+8,2,Mumbai Indians,Kolkata Knight Riders,15,6,AB de Villiers,Ruturaj Gaikwad,Jasprit Bumrah,0,1,0,1,0,2,Bowled
+10,1,Kolkata Knight Riders,Mumbai Indians,5,4,KL Rahul,Faf du Plessis,Rashid Khan,1,1,1,0,0,3,LBW
+10,1,Royal Challengers Bangalore,Chennai Super Kings,14,2,AB de Villiers,Suryakumar Yadav,Rashid Khan,1,1,0,1,0,6,Bowled
+8,1,Royal Challengers Bangalore,Kolkata Knight Riders,19,5,Virat Kohli,Ruturaj Gaikwad,Pat Cummins,0,0,0,0,0,0,Caught
+7,2,Chennai Super Kings,Kolkata Knight Riders,3,6,MS Dhoni,Suryakumar Yadav,Deepak Chahar,1,1,1,1,0,6,Caught
+10,1,Chennai Super Kings,Kolkata Knight Riders,16,4,MS Dhoni,Ruturaj Gaikwad,Pat Cummins,1,0,0,1,0,5,
+9,2,Chennai Super Kings,Royal Challengers Bangalore,15,6,KL Rahul,Faf du Plessis,Deepak Chahar,0,0,1,1,0,1,Run Out
+3,1,Royal Challengers Bangalore,Kolkata Knight Riders,7,4,AB de Villiers,Suryakumar Yadav,Pat Cummins,0,1,0,0,0,3,Run Out
+1,2,Mumbai Indians,Chennai Super Kings,1,4,KL Rahul,Faf du Plessis,Rashid Khan,0,0,0,0,0,5,LBW
+5,1,Kolkata Knight Riders,Mumbai Indians,9,4,AB de Villiers,Ruturaj Gaikwad,Rashid Khan,0,0,0,0,0,1,
+10,2,Royal Challengers Bangalore,Royal Challengers Bangalore,15,1,Virat Kohli,Ruturaj Gaikwad,Deepak Chahar,0,1,0,0,0,5,Bowled
+9,1,Royal Challengers Bangalore,Kolkata Knight Riders,11,1,Virat Kohli,Suryakumar Yadav,Pat Cummins,0,1,1,1,0,3,Bowled
+7,1,Chennai Super Kings,Royal Challengers Bangalore,19,6,KL Rahul,Faf du Plessis,Pat Cummins,1,0,1,0,0,3,Caught
+9,1,Royal Challengers Bangalore,Mumbai Indians,13,5,KL Rahul,Faf du Plessis,Rashid Khan,1,0,1,0,0,0,Bowled
+7,2,Chennai Super Kings,Chennai Super Kings,4,6,MS Dhoni,Suryakumar Yadav,Deepak Chahar,1,0,0,1,0,2,Caught
+8,2,Chennai Super Kings,Chennai Super Kings,1,2,KL Rahul,Ruturaj Gaikwad,Pat Cummins,1,1,1,0,0,5,Caught
+3,2,Kolkata Knight Riders,Chennai Super Kings,5,2,MS Dhoni,Suryakumar Yadav,Pat Cummins,1,1,0,1,0,1,Bowled
+8,1,Mumbai Indians,Mumbai Indians,5,1,MS Dhoni,Faf du Plessis,Rashid Khan,1,1,0,1,0,5,LBW
+10,2,Chennai Super Kings,Royal Challengers Bangalore,2,1,Rohit Sharma,Faf du Plessis,Pat Cummins,0,1,0,0,0,0,Bowled
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,1,1,MS Dhoni,Ruturaj Gaikwad,Pat Cummins,1,0,1,1,0,2,LBW
+7,2,Mumbai Indians,Kolkata Knight Riders,6,1,Virat Kohli,David Warner,Deepak Chahar,1,1,0,0,0,3,
+7,1,Chennai Super Kings,Kolkata Knight Riders,5,6,KL Rahul,Suryakumar Yadav,Rashid Khan,0,1,1,0,0,2,Run Out
+9,1,Mumbai Indians,Royal Challengers Bangalore,6,5,AB de Villiers,David Warner,Pat Cummins,1,1,0,1,0,1,
+9,1,Royal Challengers Bangalore,Kolkata Knight Riders,10,5,Virat Kohli,Ruturaj Gaikwad,Rashid Khan,1,1,0,0,0,5,Run Out
+1,1,Royal Challengers Bangalore,Royal Challengers Bangalore,12,1,AB de Villiers,Suryakumar Yadav,Jasprit Bumrah,1,1,1,1,0,3,Caught
+4,1,Kolkata Knight Riders,Mumbai Indians,16,6,KL Rahul,Ruturaj Gaikwad,Deepak Chahar,0,1,1,1,0,2,
+2,1,Mumbai Indians,Mumbai Indians,18,3,AB de Villiers,David Warner,Rashid Khan,1,1,0,1,0,1,Run Out
+2,1,Mumbai Indians,Kolkata Knight Riders,2,1,Rohit Sharma,Ruturaj Gaikwad,Deepak Chahar,1,1,0,1,0,1,
+5,1,Mumbai Indians,Chennai Super Kings,2,2,Rohit Sharma,Suryakumar Yadav,Rashid Khan,0,1,1,0,0,4,Run Out
+8,1,Chennai Super Kings,Mumbai Indians,10,6,KL Rahul,Ruturaj Gaikwad,Pat Cummins,1,1,0,0,0,0,LBW
+4,2,Chennai Super Kings,Mumbai Indians,16,2,Virat Kohli,Suryakumar Yadav,Rashid Khan,0,0,0,1,0,3,LBW
+8,2,Mumbai Indians,Kolkata Knight Riders,20,2,MS Dhoni,Suryakumar Yadav,Rashid Khan,0,0,1,0,0,0,Bowled
+10,2,Royal Challengers Bangalore,Royal Challengers Bangalore,17,4,AB de Villiers,David Warner,Jasprit Bumrah,1,0,1,1,0,4,LBW
+6,2,Chennai Super Kings,Kolkata Knight Riders,15,5,MS Dhoni,Suryakumar Yadav,Deepak Chahar,1,1,0,1,0,0,Run Out
+1,2,Royal Challengers Bangalore,Royal Challengers Bangalore,4,3,MS Dhoni,Ruturaj Gaikwad,Deepak Chahar,0,1,0,0,0,2,Caught
+4,1,Royal Challengers Bangalore,Kolkata Knight Riders,16,3,KL Rahul,Suryakumar Yadav,Pat Cummins,0,0,1,1,0,3,LBW
+9,2,Chennai Super Kings,Kolkata Knight Riders,13,3,Rohit Sharma,Ruturaj Gaikwad,Pat Cummins,0,0,0,1,0,1,Caught
+8,1,Royal Challengers Bangalore,Mumbai Indians,3,1,Virat Kohli,Suryakumar Yadav,Pat Cummins,1,0,0,0,0,5,Run Out
+3,2,Chennai Super Kings,Chennai Super Kings,9,1,Rohit Sharma,David Warner,Jasprit Bumrah,1,0,0,0,0,3,LBW
+4,1,Chennai Super Kings,Royal Challengers Bangalore,14,3,MS Dhoni,Faf du Plessis,Deepak Chahar,1,1,1,1,0,3,Caught
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,20,6,KL Rahul,Faf du Plessis,Jasprit Bumrah,1,0,1,0,0,1,Caught
+7,1,Mumbai Indians,Kolkata Knight Riders,19,5,Rohit Sharma,Faf du Plessis,Pat Cummins,1,0,1,0,0,5,LBW
+2,2,Chennai Super Kings,Chennai Super Kings,11,1,Virat Kohli,Suryakumar Yadav,Pat Cummins,1,0,0,0,0,4,Bowled
+10,1,Mumbai Indians,Chennai Super Kings,13,1,AB de Villiers,Ruturaj Gaikwad,Pat Cummins,1,1,1,1,0,5,
+7,1,Mumbai Indians,Kolkata Knight Riders,14,2,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,0,0,1,0,0,0,Bowled
+10,2,Kolkata Knight Riders,Chennai Super Kings,11,6,KL Rahul,Ruturaj Gaikwad,Deepak Chahar,1,0,1,1,0,3,
+10,1,Mumbai Indians,Mumbai Indians,8,3,Rohit Sharma,Faf du Plessis,Deepak Chahar,1,0,0,1,0,0,Run Out
+8,2,Royal Challengers Bangalore,Royal Challengers Bangalore,3,1,Virat Kohli,Ruturaj Gaikwad,Jasprit Bumrah,1,0,0,0,0,6,Run Out
+4,2,Kolkata Knight Riders,Chennai Super Kings,3,4,KL Rahul,Suryakumar Yadav,Jasprit Bumrah,1,1,1,1,0,0,Bowled
+10,1,Chennai Super Kings,Kolkata Knight Riders,17,3,Virat Kohli,Faf du Plessis,Deepak Chahar,1,0,0,1,0,5,Run Out
+7,1,Kolkata Knight Riders,Kolkata Knight Riders,1,3,Virat Kohli,Faf du Plessis,Rashid Khan,0,0,1,1,0,5,Bowled
+5,2,Kolkata Knight Riders,Royal Challengers Bangalore,6,5,Virat Kohli,Ruturaj Gaikwad,Pat Cummins,1,1,1,1,0,3,Bowled
+2,1,Royal Challengers Bangalore,Royal Challengers Bangalore,2,5,AB de Villiers,David Warner,Jasprit Bumrah,1,1,1,1,0,5,
+7,2,Kolkata Knight Riders,Mumbai Indians,19,1,MS Dhoni,Ruturaj Gaikwad,Rashid Khan,1,1,1,1,0,1,Bowled
+9,2,Chennai Super Kings,Mumbai Indians,5,2,KL Rahul,Ruturaj Gaikwad,Jasprit Bumrah,0,0,1,0,0,6,
+9,1,Chennai Super Kings,Royal Challengers Bangalore,1,5,Virat Kohli,Ruturaj Gaikwad,Deepak Chahar,1,1,1,0,0,1,Bowled
+1,2,Royal Challengers Bangalore,Kolkata Knight Riders,11,6,MS Dhoni,Suryakumar Yadav,Deepak Chahar,0,0,0,1,0,0,
+10,1,Chennai Super Kings,Kolkata Knight Riders,8,6,Rohit Sharma,Faf du Plessis,Rashid Khan,0,0,1,0,0,2,LBW
+3,2,Mumbai Indians,Mumbai Indians,18,2,KL Rahul,Ruturaj Gaikwad,Pat Cummins,0,1,0,1,0,1,Run Out
+8,1,Kolkata Knight Riders,Mumbai Indians,10,5,MS Dhoni,Suryakumar Yadav,Deepak Chahar,1,1,0,0,0,6,Caught
+3,1,Kolkata Knight Riders,Mumbai Indians,1,5,Virat Kohli,David Warner,Deepak Chahar,0,1,1,1,0,2,Run Out
+4,1,Mumbai Indians,Mumbai Indians,19,2,AB de Villiers,Suryakumar Yadav,Jasprit Bumrah,0,1,0,1,0,5,Bowled
+5,1,Mumbai Indians,Kolkata Knight Riders,1,5,AB de Villiers,Faf du Plessis,Rashid Khan,1,0,1,1,0,1,Bowled
+5,1,Royal Challengers Bangalore,Mumbai Indians,12,5,MS Dhoni,Suryakumar Yadav,Rashid Khan,1,0,0,0,0,1,
+4,1,Mumbai Indians,Kolkata Knight Riders,10,4,Virat Kohli,Faf du Plessis,Rashid Khan,0,0,1,1,0,4,Run Out
+3,2,Royal Challengers Bangalore,Mumbai Indians,7,6,Virat Kohli,Faf du Plessis,Jasprit Bumrah,0,1,1,1,0,2,
+10,1,Kolkata Knight Riders,Royal Challengers Bangalore,17,2,AB de Villiers,Faf du Plessis,Pat Cummins,0,0,0,1,0,6,
+9,1,Mumbai Indians,Royal Challengers Bangalore,7,3,Virat Kohli,Suryakumar Yadav,Jasprit Bumrah,0,1,0,0,0,2,Bowled
+10,2,Kolkata Knight Riders,Royal Challengers Bangalore,15,6,AB de Villiers,Suryakumar Yadav,Deepak Chahar,1,0,0,1,0,6,Run Out
+6,2,Royal Challengers Bangalore,Kolkata Knight Riders,1,1,MS Dhoni,David Warner,Deepak Chahar,0,0,0,1,0,0,Bowled
+3,1,Kolkata Knight Riders,Kolkata Knight Riders,1,3,Virat Kohli,David Warner,Rashid Khan,1,1,0,1,0,5,Run Out
+6,1,Chennai Super Kings,Royal Challengers Bangalore,5,4,Rohit Sharma,David Warner,Jasprit Bumrah,1,1,1,1,0,1,Run Out
+6,2,Chennai Super Kings,Kolkata Knight Riders,11,2,KL Rahul,Faf du Plessis,Jasprit Bumrah,1,1,0,1,0,5,Run Out
+6,2,Chennai Super Kings,Kolkata Knight Riders,15,4,AB de Villiers,David Warner,Rashid Khan,1,0,0,1,0,6,Bowled
+9,1,Chennai Super Kings,Royal Challengers Bangalore,1,3,AB de Villiers,Suryakumar Yadav,Jasprit Bumrah,1,0,1,0,0,5,
+2,2,Kolkata Knight Riders,Kolkata Knight Riders,6,3,KL Rahul,David Warner,Pat Cummins,1,0,0,0,0,6,LBW
+3,2,Royal Challengers Bangalore,Kolkata Knight Riders,19,5,MS Dhoni,Suryakumar Yadav,Deepak Chahar,1,0,0,1,0,4,Caught
+7,1,Royal Challengers Bangalore,Chennai Super Kings,1,1,MS Dhoni,Suryakumar Yadav,Pat Cummins,0,1,0,0,0,3,Caught
+3,2,Kolkata Knight Riders,Kolkata Knight Riders,7,4,KL Rahul,David Warner,Pat Cummins,1,1,1,1,0,4,LBW
+2,1,Royal Challengers Bangalore,Royal Challengers Bangalore,15,1,AB de Villiers,Faf du Plessis,Jasprit Bumrah,0,0,1,1,0,4,Bowled
+9,1,Kolkata Knight Riders,Royal Challengers Bangalore,5,2,MS Dhoni,Faf du Plessis,Pat Cummins,1,0,0,0,0,4,LBW
+7,1,Chennai Super Kings,Royal Challengers Bangalore,18,3,MS Dhoni,Ruturaj Gaikwad,Jasprit Bumrah,1,1,1,0,0,3,Bowled
+5,2,Mumbai Indians,Royal Challengers Bangalore,20,6,Rohit Sharma,Suryakumar Yadav,Deepak Chahar,0,0,1,0,0,1,LBW
+4,2,Mumbai Indians,Chennai Super Kings,14,1,Virat Kohli,Faf du Plessis,Rashid Khan,0,1,1,0,0,6,Bowled
+4,1,Mumbai Indians,Chennai Super Kings,19,6,Rohit Sharma,Faf du Plessis,Rashid Khan,0,0,1,0,0,1,Bowled
+5,1,Mumbai Indians,Royal Challengers Bangalore,19,2,Virat Kohli,Faf du Plessis,Jasprit Bumrah,0,1,0,0,0,5,Caught
+2,1,Chennai Super Kings,Mumbai Indians,6,2,AB de Villiers,Suryakumar Yadav,Jasprit Bumrah,1,1,0,0,0,4,LBW
+4,2,Kolkata Knight Riders,Chennai Super Kings,15,2,MS Dhoni,David Warner,Rashid Khan,0,1,1,1,0,1,Run Out
+6,1,Royal Challengers Bangalore,Royal Challengers Bangalore,19,6,Rohit Sharma,Faf du Plessis,Jasprit Bumrah,0,0,1,1,0,1,
+4,2,Kolkata Knight Riders,Royal Challengers Bangalore,11,5,MS Dhoni,Ruturaj Gaikwad,Pat Cummins,0,1,1,1,0,3,Caught
+5,1,Kolkata Knight Riders,Chennai Super Kings,11,3,Virat Kohli,Ruturaj Gaikwad,Deepak Chahar,1,0,0,1,0,0,Caught
+10,2,Royal Challengers Bangalore,Mumbai Indians,12,3,KL Rahul,David Warner,Jasprit Bumrah,0,1,0,1,0,5,Bowled
+2,1,Kolkata Knight Riders,Chennai Super Kings,4,4,AB de Villiers,Faf du Plessis,Jasprit Bumrah,0,0,1,1,0,6,
+3,1,Mumbai Indians,Chennai Super Kings,13,1,KL Rahul,David Warner,Rashid Khan,0,0,0,0,0,4,Run Out
+3,2,Chennai Super Kings,Chennai Super Kings,18,5,AB de Villiers,Suryakumar Yadav,Pat Cummins,0,0,1,1,0,2,Run Out
+1,2,Mumbai Indians,Kolkata Knight Riders,16,4,MS Dhoni,Faf du Plessis,Jasprit Bumrah,0,0,0,0,0,4,Run Out
+5,2,Mumbai Indians,Chennai Super Kings,19,6,Rohit Sharma,Faf du Plessis,Deepak Chahar,0,1,1,0,0,1,
+3,1,Mumbai Indians,Chennai Super Kings,17,1,KL Rahul,David Warner,Deepak Chahar,0,0,1,0,0,1,
+6,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,3,MS Dhoni,Suryakumar Yadav,Jasprit Bumrah,0,1,0,0,0,6,LBW
+10,1,Mumbai Indians,Chennai Super Kings,19,2,Virat Kohli,Faf du Plessis,Rashid Khan,0,0,0,0,0,4,
+1,2,Royal Challengers Bangalore,Kolkata Knight Riders,1,3,KL Rahul,Faf du Plessis,Pat Cummins,0,1,1,0,0,1,Bowled
+3,2,Royal Challengers Bangalore,Mumbai Indians,15,4,MS Dhoni,Ruturaj Gaikwad,Deepak Chahar,1,1,1,1,0,3,Caught
+4,1,Mumbai Indians,Kolkata Knight Riders,4,2,Virat Kohli,David Warner,Jasprit Bumrah,0,1,1,0,0,4,Run Out
+4,2,Chennai Super Kings,Chennai Super Kings,11,5,Virat Kohli,Suryakumar Yadav,Deepak Chahar,0,1,1,0,0,0,Bowled
+6,1,Kolkata Knight Riders,Kolkata Knight Riders,3,6,Virat Kohli,Ruturaj Gaikwad,Pat Cummins,0,1,0,0,0,4,LBW
+1,1,Chennai Super Kings,Chennai Super Kings,12,1,AB de Villiers,Ruturaj Gaikwad,Pat Cummins,0,0,0,0,0,3,
+4,1,Royal Challengers Bangalore,Chennai Super Kings,15,2,Virat Kohli,Faf du Plessis,Deepak Chahar,1,0,0,0,0,2,Caught
+4,2,Kolkata Knight Riders,Royal Challengers Bangalore,8,4,AB de Villiers,Suryakumar Yadav,Deepak Chahar,0,1,1,1,0,2,Caught
+3,1,Royal Challengers Bangalore,Kolkata Knight Riders,9,3,MS Dhoni,Suryakumar Yadav,Deepak Chahar,1,1,1,1,0,2,Bowled
+5,1,Mumbai Indians,Royal Challengers Bangalore,3,3,Virat Kohli,Faf du Plessis,Rashid Khan,0,1,0,1,0,5,Run Out
+9,1,Chennai Super Kings,Chennai Super Kings,19,1,Rohit Sharma,Faf du Plessis,Jasprit Bumrah,1,0,0,1,0,0,Caught
+7,1,Kolkata Knight Riders,Chennai Super Kings,19,2,Virat Kohli,Faf du Plessis,Jasprit Bumrah,0,0,1,1,0,4,LBW
+2,2,Chennai Super Kings,Royal Challengers Bangalore,10,5,Rohit Sharma,Faf du Plessis,Deepak Chahar,1,0,0,0,0,2,Caught
+9,2,Chennai Super Kings,Kolkata Knight Riders,2,5,Rohit Sharma,Suryakumar Yadav,Jasprit Bumrah,1,0,1,1,0,5,
+6,1,Chennai Super Kings,Chennai Super Kings,3,2,Virat Kohli,Suryakumar Yadav,Jasprit Bumrah,1,1,0,1,0,1,Bowled
+6,1,Royal Challengers Bangalore,Royal Challengers Bangalore,18,5,AB de Villiers,Faf du Plessis,Rashid Khan,0,1,0,0,0,4,Caught
+3,2,Mumbai Indians,Mumbai Indians,16,2,Rohit Sharma,David Warner,Jasprit Bumrah,0,0,1,0,0,6,LBW
+1,2,Chennai Super Kings,Mumbai Indians,14,1,Rohit Sharma,Suryakumar Yadav,Rashid Khan,1,0,1,1,0,5,
+10,2,Kolkata Knight Riders,Mumbai Indians,20,5,KL Rahul,Faf du Plessis,Deepak Chahar,0,1,0,0,0,4,
+7,1,Chennai Super Kings,Mumbai Indians,8,4,Virat Kohli,Ruturaj Gaikwad,Jasprit Bumrah,0,0,0,0,0,3,LBW
+2,2,Chennai Super Kings,Chennai Super Kings,8,6,Rohit Sharma,Faf du Plessis,Rashid Khan,0,0,1,1,0,6,Caught
+8,2,Kolkata Knight Riders,Mumbai Indians,7,3,Rohit Sharma,Ruturaj Gaikwad,Rashid Khan,0,0,1,1,0,2,Run Out
+10,2,Mumbai Indians,Kolkata Knight Riders,9,5,KL Rahul,Suryakumar Yadav,Pat Cummins,1,1,0,1,0,4,Run Out
+9,2,Mumbai Indians,Mumbai Indians,9,6,AB de Villiers,Faf du Plessis,Jasprit Bumrah,0,0,1,1,0,3,Run Out
+6,2,Kolkata Knight Riders,Chennai Super Kings,2,1,Virat Kohli,David Warner,Jasprit Bumrah,0,0,0,0,0,6,Caught
+1,1,Kolkata Knight Riders,Mumbai Indians,7,5,MS Dhoni,David Warner,Rashid Khan,1,1,0,1,0,4,LBW
+8,1,Kolkata Knight Riders,Royal Challengers Bangalore,20,3,Rohit Sharma,Suryakumar Yadav,Jasprit Bumrah,1,0,0,1,0,1,LBW
+2,2,Kolkata Knight Riders,Mumbai Indians,5,2,Rohit Sharma,Suryakumar Yadav,Jasprit Bumrah,1,1,1,0,0,6,
+9,1,Chennai Super Kings,Royal Challengers Bangalore,7,4,AB de Villiers,Suryakumar Yadav,Rashid Khan,0,1,1,0,0,6,
+9,1,Royal Challengers Bangalore,Mumbai Indians,13,5,KL Rahul,Ruturaj Gaikwad,Deepak Chahar,1,0,1,1,0,2,Run Out
+6,1,Chennai Super Kings,Chennai Super Kings,11,5,Rohit Sharma,Faf du Plessis,Jasprit Bumrah,0,0,1,0,0,1,LBW
+2,2,Kolkata Knight Riders,Chennai Super Kings,12,1,Rohit Sharma,Suryakumar Yadav,Pat Cummins,0,1,1,1,0,2,Bowled
+10,1,Chennai Super Kings,Chennai Super Kings,9,4,AB de Villiers,Suryakumar Yadav,Deepak Chahar,1,1,0,0,0,4,LBW
+1,1,Royal Challengers Bangalore,Mumbai Indians,9,5,Virat Kohli,Suryakumar Yadav,Jasprit Bumrah,1,1,1,0,0,5,Caught
+2,2,Kolkata Knight Riders,Mumbai Indians,2,2,Virat Kohli,Faf du Plessis,Pat Cummins,0,0,1,0,0,3,LBW
+6,1,Kolkata Knight Riders,Mumbai Indians,17,5,Virat Kohli,Faf du Plessis,Pat Cummins,1,1,1,0,0,0,Run Out
+3,2,Mumbai Indians,Royal Challengers Bangalore,5,4,AB de Villiers,Ruturaj Gaikwad,Rashid Khan,1,0,1,1,0,5,
+9,1,Kolkata Knight Riders,Kolkata Knight Riders,20,2,MS Dhoni,David Warner,Deepak Chahar,1,0,1,0,0,5,Run Out
+2,2,Kolkata Knight Riders,Chennai Super Kings,5,3,KL Rahul,David Warner,Rashid Khan,0,1,1,1,0,2,Run Out
+3,2,Chennai Super Kings,Chennai Super Kings,1,1,AB de Villiers,Ruturaj Gaikwad,Jasprit Bumrah,0,1,1,0,0,1,Bowled
+6,2,Kolkata Knight Riders,Royal Challengers Bangalore,4,1,MS Dhoni,David Warner,Deepak Chahar,0,1,0,1,0,3,
+4,2,Chennai Super Kings,Kolkata Knight Riders,19,2,AB de Villiers,Suryakumar Yadav,Rashid Khan,1,1,1,0,0,2,Caught
+10,1,Mumbai Indians,Mumbai Indians,9,1,KL Rahul,Faf du Plessis,Pat Cummins,0,0,1,0,0,0,Bowled
+2,2,Royal Challengers Bangalore,Royal Challengers Bangalore,9,2,MS Dhoni,Ruturaj Gaikwad,Jasprit Bumrah,0,0,0,1,0,0,Run Out
